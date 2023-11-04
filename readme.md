@@ -17,8 +17,6 @@
     |
     <a href="https://github.com/adarsh-goel/filestreambot-pro/issues">Request Feature</a>
   </p>
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
-
 
 <hr>
 
